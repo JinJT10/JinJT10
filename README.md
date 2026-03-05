@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi 👋, I'm Jin Javier
+
+**A Dedicated student Software Engineer at TripleTen. Focused on delivering fewer, well-executed features, emphasizing clean, documented, readable, maintainable, and tested code. Committed to continuous improvement and collaborative progress.
+
+In 2024, I enrolled in the software engineer program at TripleTen, an online bootcamp. The curriculum provided a wide range of assigned projects that required me to use the following Full Stack Development technologies: HTML5, CSS3, FlexBox, Grid, BEM Methodology, JavaScript, Git, GitHub, and Figma.
+
 
 <!--
 **JinJT10/JinJT10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
